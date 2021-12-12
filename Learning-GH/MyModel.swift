@@ -8,5 +8,5 @@
 import Foundation
 
 struct MyModel {
-    var name: String
+    var name: String = "This goes to the Other-Branch... not the main "
 }
